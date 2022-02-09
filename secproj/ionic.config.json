@@ -1,0 +1,7 @@
+{
+  "name": "secproj",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
